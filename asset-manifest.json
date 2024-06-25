@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fireapp/static/css/main.ab6886c6.css",
+    "main.js": "/fireapp/static/js/main.80ca6cea.js",
+    "index.html": "/fireapp/index.html",
+    "main.ab6886c6.css.map": "/fireapp/static/css/main.ab6886c6.css.map",
+    "main.80ca6cea.js.map": "/fireapp/static/js/main.80ca6cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6886c6.css",
+    "static/js/main.80ca6cea.js"
+  ]
+}
